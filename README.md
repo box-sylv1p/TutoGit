@@ -11,3 +11,4 @@ gogo3
 
 rebase 02
 rebase 03
+ Test rebase 04
