@@ -7,3 +7,5 @@ et encore et encore...
 
 alors ca c'est master :)
 
+//Resolution bug02
+Ca resoud le bug :)
