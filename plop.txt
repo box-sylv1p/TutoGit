@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 glop glop
+=======
+glop glop
+
+loop2
+>>>>>>> eb83846... plop2
