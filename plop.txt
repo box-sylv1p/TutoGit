@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 glop glop
 
 loop2
+=======
+<<<<<<< HEAD
+glop glop
+=======
+glop glop
+
+loop2
+>>>>>>> eb83846... plop2
+>>>>>>> feature/TestRebase
